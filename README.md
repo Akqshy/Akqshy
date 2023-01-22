@@ -1,5 +1,5 @@
 <h1 align="center">Github Page’s of Akashy</h1>
-<a id="setup2"><h3 align="center">Creator of [[PackChanger](https://packchanger.com)]</h3></a>
+<a id="setup2"><h3 align="center">Creator of [PackChanger](https://packchanger.com)]</h3></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akqshy&label=Profile%20views&color=0e75b6&style=flat" alt="akqshy" /> </p>
 
