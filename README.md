@@ -2,9 +2,6 @@
 <a id="setup2"><p align="center">
   Creator of [PackChanger](https://packchanger.com)
 </p></a>
-<a id="setup2"><p align="center">
-  The latest version of PackChanger Free. [PackChanger](https://packchanger.com)
-</p></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akqshy&label=Profile%20views&color=0e75b6&style=flat" alt="akqshy" /> </p>
 
