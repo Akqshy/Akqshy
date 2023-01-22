@@ -1,7 +1,7 @@
 <h1 align="center">Github Page’s of Akashy</h1>
 <h3 align="center">Creator of [PackChanger](https://PackChanger.com)</h3>
 
-<a id="setup2"<p align="left"> <img src="https://komarev.com/ghpvc/?username=akqshy&label=Profile%20views&color=0e75b6&style=flat" alt="akqshy" /> </p></a>
+<a id="setup2"><p align="left"> <img src="https://komarev.com/ghpvc/?username=akqshy&label=Profile%20views&color=0e75b6&style=flat" alt="akqshy" /> </p></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akqshy" alt="akqshy" /></a> </p>
 
